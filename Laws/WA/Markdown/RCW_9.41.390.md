@@ -5,10 +5,9 @@
 
 # [RCW 9.41.390](https://app.leg.wa.gov/rcw/default.aspx?cite=9.41.390)
 
-## Assault weapons 
+### Assault weapons 
 ### Manufacturing, importing, distributing, selling prohibited
-### Exceptions
-### Penalty.
+### Exceptions, and Penalty.
 1.  No person in this state may manufacture, import, distribute, sell, or offer for sale any assault weapon, except as authorized in this section.
 2. Subsection 1. of this section does not apply to any of the following:
 	1. The manufacture, importation, distribution, offer for sale, or sale of an assault weapon by a licensed firearms manufacturer for the purposes of sale to **any branch of the armed forces of the United States or the state of Washington, or to any law enforcement agency** for use by that agency or its employees for law enforcement purposes, or to a person who does not reside in this state;
