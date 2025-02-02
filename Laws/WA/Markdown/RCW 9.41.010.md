@@ -72,30 +72,32 @@ Unless the context clearly requires otherwise, the definitions in this section a
             * FAMAS F11
             * Uzi 9mm carbine/rifle
         2. A semiautomatic rifle that has an overall length of less than 30 inches;
-        3. A conversion kit, part, or combination of parts, from which an assault weapon can be assembled or from which a firearm can be converted into an assault weapon if those parts are in the possession or under the control of  the same person; or
+        3. A conversion kit, part, or combination of parts, from which an assault weapon can be assembled or from which a firearm can be converted into an assault weapon if those parts are in the possession or under the control of the same person; or
         4. A semiautomatic, center fire rifle that has the capacity to accept a detachable magazine and has one or more of the following:
-            1. A grip that is independent or detached from the stock that protrudes conspicuously beneath the action of the weapon. The addition of a fin attaching the grip to the stock does not exempt the grip if it otherwise  resembles the grip found on a pistol;
-            2. Thumbhole stock;
-            3. Folding or telescoping stock;
-            4. Forward pistol, vertical, angled, or other grip designed for use by the nonfiring hand to improve control;
-            5. Flash suppressor, flash guard, flash eliminator, flash hider, sound suppressor, silencer, or any item designed to reduce the visual or audio signature of the firearm;
-            6. Muzzle brake, recoil compensator, or any item designed to be affixed to the barrel to reduce recoil or muzzle rise;
-            7. Threaded barrel designed to attach a flash suppressor, sound suppressor, muzzle break, or similar item;
-            8. Grenade launcher or flare launcher; or
-            9. A shroud that encircles either all or part of the barrel designed to shield the bearer's hand from heat, except a solid forearm of a stock that covers only the bottom of the barrel;
+            1. A grip that is independent or detached from the stock that protrudes conspicuously beneath the action of the weapon.
+                - The addition of a fin attaching the grip to the stock does not exempt the grip if it otherwise resembles the grip found on a pistol;
+            3. Thumbhole stock
+            4. Folding or telescoping stock;
+            5. Forward pistol, vertical, angled, or other grip designed for use by the nonfiring hand to improve control;
+            6. Flash suppressor, flash guard, flash eliminator, flash hider, sound suppressor, silencer, or any item designed to reduce the visual or audio signature of the firearm;
+            7. Muzzle brake, recoil compensator, or any item designed to be affixed to the barrel to reduce recoil or muzzle rise;
+            8. Threaded barrel designed to attach a flash suppressor, sound suppressor, muzzle break, or similar item;
+            9. Grenade launcher or flare launcher;
+            10. A shroud that encircles either all or part of the barrel designed to shield the bearer's hand from heat, except a solid forearm of a stock that covers only the bottom of the barrel;
         5. A semiautomatic, center fire rifle that has a fixed magazine with the capacity to accept more than 10 rounds;
-        6. A semiautomatic pistol that has the capacity to accept a detachable magazine and has one or more of the  following:
+        6. A semiautomatic pistol that has the capacity to accept a detachable magazine and has one or more of the following:
             1. A threaded barrel, capable of accepting a flash suppressor, forward handgrip, or silencer;
             2. A second hand grip;
-            3. A shroud that encircles either all or part of the barrel designed to shield the bearer's hand from heat, except a solid forearm of a stock that covers only the bottom of the barrel; or
+            3. A shroud that encircles either all or part of the barrel designed to shield the bearer's hand from heat, except a solid forearm of a stock that covers only the bottom of the barrel;
             4. The capacity to accept a detachable magazine at some location outside of the pistol grip;
         7. A semiautomatic shotgun that has any of the following:
             1. A folding or telescoping stock;
-            2. A grip that is independent or detached from the stock that protrudes conspicuously beneath the action of the weapon. The addition of a fin attaching the grip to the stock does not exempt the grip if it otherwise  resembles the grip found on a pistol;
-            3. A thumbhole stock;
-            4. A forward pistol, vertical, angled, or other grip designed for use by the nonfiring hand to improve  control;
-            5. A fixed magazine in excess of seven rounds; or
-            6. A revolving cylinder shotgun.
+            2. A grip that is independent or detached from the stock that protrudes conspicuously beneath the action of the weapon.
+               - The addition of a fin attaching the grip to the stock does not exempt the grip if it otherwise resembles the grip found on a pistol;
+            4. A thumbhole stock;
+            5. A forward pistol, vertical, angled, or other grip designed for use by the nonfiring hand to improve  control;
+            6. A fixed magazine in excess of seven rounds;
+            7. A revolving cylinder shotgun.
     2. For the purposes of this subsection, "fixed magazine" means an ammunition feeding device contained in, or permanently attached to, a firearm in such a manner that the device cannot be removed without disassembly of the firearm action.
     3. "Assault weapon" does not include antique firearms, any firearm that has been made permanently inoperable, or any firearm that is manually operated by bolt, pump, lever, or slide action.
     
