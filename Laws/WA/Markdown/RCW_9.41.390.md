@@ -19,5 +19,5 @@
 3. For the purposes of this section, "law enforcement agency" means any:
 	- general authority Washington law enforcement agency as defined in RCW 10.93.020;
  	- limited authority Washington law enforcement agency as defined in RCW 10.93.020; or
-  	- (c) equivalent federal, state, or local law enforcement agency in the United States.
+  	- equivalent federal, state, or local law enforcement agency in the United States.
 5. A person who violates this section is guilty of a gross misdemeanor. RCW 9.41.390
