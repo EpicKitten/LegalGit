@@ -5,7 +5,10 @@
 
 # [RCW 9.41.390](https://app.leg.wa.gov/rcw/default.aspx?cite=9.41.390)
 
-##      Assault weapons — Manufacturing, importing, distributing, selling prohibited — Exceptions — Penalty.
+## Assault weapons 
+### Manufacturing, importing, distributing, selling prohibited
+### Exceptions
+### Penalty.
 1.  No person in this state may manufacture, import, distribute, sell, or offer for sale any assault weapon, except as authorized in this section.
 2. Subsection 1. of this section does not apply to any of the following:
 	1. The manufacture, importation, distribution, offer for sale, or sale of an assault weapon by a licensed firearms manufacturer for the purposes of sale to **any branch of the armed forces of the United States or the state of Washington, or to any law enforcement agency** for use by that agency or its employees for law enforcement purposes, or to a person who does not reside in this state;
@@ -15,3 +18,4 @@
 	5. The receipt of an assault weapon by a person who, on or after April 25, 2023, acquires possession of the assault weapon by operation of law **upon the death of the former owner who was in legal possession** of the assault weapon, provided the person in possession of the assault weapon can establish such provenance. Receipt under this subsection (2)(e) is not "distribution" under this chapter. A person who legally receives an assault weapon under this subsection (2)(e) may not sell or transfer the assault weapon to any other person in this state other than to a licensed dealer, to a federally licensed gunsmith for the purpose of service or repair, or to a law enforcement agency for the purpose of permanently relinquishing the assault weapon.
 3. For the purposes of this section, "law enforcement agency" means any (a) general authority Washington law enforcement agency as defined in RCW 10.93.020; (b) limited authority Washington law enforcement agency as defined in RCW 10.93.020; or (c) equivalent federal, state, or local law enforcement agency in the United States.
 4. A person who violates this section is guilty of a gross misdemeanor.
+RCW 9.41.390
